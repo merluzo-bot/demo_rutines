@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="robmov" exec="tarea" name="tarea"/>
+</launch>
